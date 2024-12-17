@@ -1,0 +1,121 @@
+{
+  "ships": [
+    {
+      "id": "1",
+      "name": "Ocean Explorer",
+      "type": "Cargo",
+      "destination": "Port of Hamburg",
+      "origin": "Port of Rotterdam",
+      "grossTonnage": "85,000 tons",
+      "callSign": "A123B"
+    },
+    {
+      "id": "2",
+      "name": "Pacific Voyager",
+      "type": "Tanker",
+      "destination": "Port of LA",
+      "origin": "Port of Shanghai",
+      "grossTonnage": "81,000 tons",
+      "callSign": "E789F"
+    },
+    {
+      "id": "3",
+      "name": "Caribbean Cruiser",
+      "type": "Cruise",
+      "destination": "Port of Hamburg",
+      "origin": "Port of Sydney",
+      "grossTonnage": "45,000 tons",
+      "callSign": "U567V"
+    },
+    {
+      "id": "4",
+      "name": "North Sea Navigator",
+      "type": "Fishing",
+      "destination": "Port of Hamburg",
+      "origin": "Port of Mumbai",
+      "grossTonnage": "37,000 tons",
+      "callSign": "Z456A"
+    },
+    {
+      "id": "5",
+      "name": "Shoreline Trader",
+      "type": "Container",
+      "destination": "Port of Sydney",
+      "origin": "Port of Rotterdam",
+      "grossTonnage": "29,000 tons",
+      "callSign": "D234E"
+    },
+    {
+      "id": "6",
+      "name": "Atlantic Adventurer",
+      "type": "Bulk Carrier",
+      "destination": "Port of Mumbai",
+      "origin": "Port of Rotterdam",
+      "grossTonnage": "120,000 tons",
+      "callSign": "S234T"
+    },
+    {
+      "id": "7",
+      "name": "Mediterranean Merchant",
+      "type": "General Cargo",
+      "destination": "Port of Busan",
+      "origin": "Port of Rotterdam",
+      "grossTonnage": "70,000 tons",
+      "callSign": "O456P"
+    },
+    {
+      "id": "8",
+      "name": "Arctic Explorer",
+      "type": "Icebreaker",
+      "destination": "Port of Hamburg",
+      "origin": "Port of LA",
+      "grossTonnage": "34,000 tons",
+      "callSign": "I567J"
+    },
+    {
+      "id": "9",
+      "name": "South Pacific Drifter",
+      "type": "Tanker",
+      "destination": "Port of Busan",
+      "origin": "Port of Sydney",
+      "grossTonnage": "22,000 tons",
+      "callSign": "M123N"
+    },
+    {
+      "id": "10",
+      "name": "Baltic Voyager",
+      "type": "Passenger",
+      "destination": "Port of Shanghai",
+      "origin": "Port of Rotterdam",
+      "grossTonnage": "11,000 tons",
+      "callSign": "C456D"
+    },
+    {
+      "id": "11",
+      "name": "Indian Ocean Scout",
+      "type": "Research",
+      "destination": "Port of Hamburg",
+      "origin": "Port of Busan",
+      "grossTonnage": "95,000 tons",
+      "callSign": "L456M"
+    },
+    {
+      "id": 1734450781399,
+      "name": "Polly",
+      "type": "Tanker ",
+      "destination": "",
+      "origin": "",
+      "grossTonnage": "",
+      "callSign": ""
+    },
+    {
+      "id": 1734450903178,
+      "name": "Polly",
+      "type": "Tanker ",
+      "destination": "New York",
+      "origin": "China",
+      "grossTonnage": "12980",
+      "callSign": "Y793K"
+    }
+  ]
+}
